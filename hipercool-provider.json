@@ -2,7 +2,7 @@
   "id": "hipercool-provider",
   "name": "HiperCool",
   "description": "Manga provider for HiperCool - Portuguese manga/manhwa site",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/SKRAPT/Hipercool-Seanime/main/hipercool-provider.json",
   "version": "1.0.0",
   "author": "Skrapt",
   "type": "manga-provider",
